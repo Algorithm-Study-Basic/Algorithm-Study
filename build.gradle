@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+
+group 'com.study.algorithm'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation (
+            'org.junit.jupiter:junit-jupiter:5.9.0',
+            'org.assertj:assertj-core:3.23.1'
+    )
+}
+
+test {
+    useJUnitPlatform()
+}
