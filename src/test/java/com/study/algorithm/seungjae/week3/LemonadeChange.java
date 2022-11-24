@@ -1,4 +1,4 @@
-package com.study.algorithm.seungjae.week2;
+package com.study.algorithm.seungjae.week3;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
