@@ -1,3 +1,5 @@
+package com.study.algorithm.seoyeon.week2;
+
 import java.util.Arrays;
 
 public class AssignCookies {
