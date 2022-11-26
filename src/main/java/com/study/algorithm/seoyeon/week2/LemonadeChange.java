@@ -1,4 +1,6 @@
-class Solution {
+package com.study.algorithm.seoyeon.week2;
+
+class LemonadeChange {
     public boolean lemonadeChange(int[] bills) {
         int five = 0, ten = 0;
         for (int bill: bills) {
