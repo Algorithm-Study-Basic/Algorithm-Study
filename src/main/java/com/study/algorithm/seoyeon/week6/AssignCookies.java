@@ -1,4 +1,4 @@
-package com.study.algorithm.seoyeon.week2;
+package com.study.algorithm.seoyeon.week6;
 
 import java.util.Arrays;
 
