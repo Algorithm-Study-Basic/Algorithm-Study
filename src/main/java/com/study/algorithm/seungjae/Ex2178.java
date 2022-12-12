@@ -44,10 +44,12 @@ public class Ex2178 {
                 int newX = moveX[i] + p.x;
                 int newY = moveY[i] + p.y;
 
+                // 가장자리 지점
                 if (newX < 0 || newY < 0 || newX >= n || newY >= m) {
                     continue;
                 }
 
+                // 방문했거나 or 이동할 수 없는 경우
                 if (maze[newX][newY] != 1 || distance[newX][newY] >= 0) {
                     continue;
                 }
