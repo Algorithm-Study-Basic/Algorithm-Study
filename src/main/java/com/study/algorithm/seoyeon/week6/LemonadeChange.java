@@ -1,4 +1,4 @@
-package com.study.algorithm.seoyeon.week2;
+package com.study.algorithm.seoyeon.week6;
 
 class LemonadeChange {
     public boolean lemonadeChange(int[] bills) {
