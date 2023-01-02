@@ -1,4 +1,4 @@
-package com.study.algorithm.seungjae;
+package com.study.algorithm.seungjae.boj;
 
 public class Ex43165 {
     private static int count = 0;
