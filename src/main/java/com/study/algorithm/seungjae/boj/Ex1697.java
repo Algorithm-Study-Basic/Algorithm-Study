@@ -1,4 +1,4 @@
-package com.study.algorithm.seungjae;
+package com.study.algorithm.seungjae.boj;
 
 import java.io.BufferedReader;
 import java.io.IOException;
